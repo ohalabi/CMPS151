@@ -1,45 +1,28 @@
 Chp 1 Input and Output
-############### Ex 1 #####################
-### Write a program that asks the user to enter an integer number 
-### composed of three digits. Your program should print the total of the digits.
+""" >A computer store is offering discounts on laptops and tablets. 
+The store has announced a 10% discount on laptops and a 25% discount on tablets. 
+The original price of a laptop is QR 5000, and for a tablet, it’s QR 1500. 
+Write a Python program to read the number of laptops and tablets bought 
+by the customer, then print the total discount amount for each item and 
+the total price for all items. """
 
-# Prompt the user to enter a three-digit integer number
-number = int(input("Enter a three-digit integer: "))
+tablet_discount = 0.25
+laptop_discount = 0.10
 
-# Extract the digits
-hundreds = number // 100
-remaining = number % 100
-tens = remaining // 10
-units = remaining % 10
+tablet_price = 1500
+laptop_price = 5000
 
-# Calculate the total of the digits
-total = hundreds + tens + units
+num_laptops = int(input('Enter the number of laptops: '))
+num_tablets = int(input('Enter the number of tablets: '))
 
-# Display the result
-print(f"The total of the digits is: {total}")
+laptops_total_discount = num_laptops * laptop_price * laptop_discount
+tablet_total_discount = num_tablets * tablet_price * tablet_discount
 
-############### Ex 2 #####################
-# Surface and volume of cone 
-import math
+laptop_total_price = (laptop_price*num_laptops) - laptops_total_discount
+tablet_total_price = (tablet_price*num_tablets) - tablet_total_discount
 
-# Define the value of PI
-PI = 3.1415
+total_price = laptop_total_price + tablet_total_price
 
-# Prompt the user for radius and height
-radius = float(input("Enter the radius of the cone: "))
-height = float(input("Enter the height of the cone: "))
-
-# Calculate the slant height of the cone
-slant_height = math.sqrt(radius**2 + height**2)
-
-# Calculate the volume of the cone
-volume = (1/3) * PI * radius**2 * height
-
-# Calculate the total surface area of the cone
-lateral_surface_area = PI * radius * slant_height
-base_area = PI * radius**2
-total_surface_area = lateral_surface_area + base_area
-
-# Display the results
-print(f"Volume of the cone: {volume:.2f}")
-print(f"Total surface area of the cone: {total_surface_area:.2f}")
+print(f'laptop total discount: {laptops_total_discount}')
+print(f'tablet total discount: {tablet_total_discount}')
+print(f'total price {total_price}')
