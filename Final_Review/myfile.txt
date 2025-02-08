@@ -1,5 +1,0 @@
-Python is amazing.
-Learning Python is fun.
-Python is used in AI and Machine Learning.
-Programming in Python is powerful.
-This is a general text file.
