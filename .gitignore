@@ -1,16 +1,16 @@
 #ignore folders
-#04_Loops.ipynb
-#05_Functions.ipynb
+04_Loops.ipynb
+05_Functions.ipynb
 06_Files.ipynb
-07_Lists/
-08_Strings/
-09_Dictionaries/
-10_Object_Oriented/
-Final_Review/
+#07_Lists/
+#08_Strings/
+#09_Dictionaries/
+#10_Object_Oriented/
+#Final_Review/
 
 Review_01.ipynb
 
-maxthree.py
+#maxthree.py
 
-Testing.py
+#Testing.py
 
