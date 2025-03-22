@@ -1,6 +1,7 @@
 # This program reads test scores from a CSV file
 # and calculates each student's test average.
 
+
 def main():
     # Open the file.
     

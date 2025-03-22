@@ -1,4 +1,6 @@
-Alia
-55
-Sara
-99
+AAA
+99.0
+BBB
+88.0
+DDD
+55.0
