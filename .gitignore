@@ -4,7 +4,7 @@
 #06_Files.ipynb
 #07_Lists/
 #08_Strings/
-09_Dictionaries/
+#09_Dictionaries/
 10_Object_Oriented/
 Final_Review/
 
@@ -17,3 +17,6 @@ Review_01.ipynb
 # 08_Strings/average_price_per_year.py
 # 07_Lists/Exercise 7-9.py
 # 07_Lists/test_averages.py
+09_Dictionaries/Problems.ipynb
+09_Dictionaries/Exercise 9-3a.py
+09_Dictionaries/Exercise 9-3b.py
