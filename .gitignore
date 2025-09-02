@@ -1,5 +1,5 @@
 #ignore folders
-#001_chp1_intro.ipynb/
+#01_chp1_intro.ipynb/
 02_chp2_input_output.ipynb/
 03_chp3_Decision.ipynb/
 04_Loops.ipynb
@@ -23,3 +23,4 @@ Testing.py
 09_Dictionaries/Problems.ipynb
 09_Dictionaries/Exercise 9-3a.py
 09_Dictionaries/Exercise 9-3b.py
+TestingNote.ipynb
