@@ -1,0 +1,12 @@
+
+
+import MyLibrary
+
+# Use the functions from mymodule
+name = "Alice"
+print(MyLibrary.greet(name))
+
+a = 10
+b = 5
+print(f"{a} + {b} = {MyLibrary.add(a, b)}")
+print(f"{a} - {b} = {MyLibrary.subtract(a, b)}")
