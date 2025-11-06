@@ -1,6 +1,0 @@
-AAABBB
-99.0
-CCCDDD
-33.0
-fffeeee
-33.0
