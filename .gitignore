@@ -1,19 +1,42 @@
-#ignore folders
-#01_chp1_intro.ipynb/
-#02_chp2_input_output.ipynb/
-#03_chp3_Decision.ipynb/
-#04_Loops.ipynb
-#05_Functions.ipynb
-#06_Files.ipynb
-#07_Lists/
-#08_Strings/
-#09_Dictionaries/
+#ignore chapters not yet taught - uncomment each as it's covered in class
+#01_chp1_intro.ipynb
+02_chp2_input_output.ipynb
+03_chp3_Decision.ipynb
+04_Loops.ipynb
+05_Functions.ipynb
+06_Files.ipynb
+07_Lists/
+08_Strings/
+09_Dictionaries/
 10_Object_Oriented/
 Final_Review/
+Live Coding/
+MyMainProject
 
-#Review_01.ipynb
-
+#support / scratch files, not part of the taught curriculum
+Enc.txt
+MyLibrary.py
+Review_01.ipynb
+__pycache__/
+alternating_factorial_series_equation.png
+data.txt
+demofile
+demofile.txt
+demofilexxx
+employees.txt
+encryptedtest.txt
+friends.txt
+image.png
+mainModule.py
 maxthree.py
+mymodule.py
+numbers.txt
+philosophers.txt
+sales.txt
+testingModule.py
+text.txt
+unencrypted.txt
+vegetables.dat
 
 08_Strings/average_price_per_year.py
 07_Lists/Exercise 7-9.py
