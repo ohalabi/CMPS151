@@ -1,6 +1,6 @@
 #ignore chapters not yet taught - uncomment each as it's covered in class
 #01_chp1_intro.ipynb
-02_chp2_input_output.ipynb
+#02_chp2_input_output.ipynb
 03_chp3_Decision.ipynb
 04_Loops.ipynb
 05_Functions.ipynb
