@@ -16,7 +16,7 @@ MyMainProject
 #support / scratch files, not part of the taught curriculum
 Enc.txt
 MyLibrary.py
-Review_01.ipynb
+#Review_01.ipynb
 __pycache__/
 alternating_factorial_series_equation.png
 data.txt
