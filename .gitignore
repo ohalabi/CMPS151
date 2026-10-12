@@ -4,7 +4,7 @@
 #03_chp3_Decision.ipynb
 #04_Loops.ipynb
 #05_Functions.ipynb
-06_Files.ipynb
+#06_Files/
 07_Lists/
 08_Strings/
 09_Dictionaries/
@@ -20,22 +20,13 @@ MyLibrary.py
 __pycache__/
 alternating_factorial_series_equation.png
 data.txt
-demofile
-demofile.txt
-demofilexxx
-employees.txt
-encryptedtest.txt
 friends.txt
 image.png
 mainModule.py
 maxthree.py
 mymodule.py
-numbers.txt
-philosophers.txt
-sales.txt
 testingModule.py
 text.txt
-unencrypted.txt
 vegetables.dat
 
 08_Strings/average_price_per_year.py
