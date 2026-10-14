@@ -1,9 +1,6 @@
-ahmed
+Ali
 111
 CSE
-Asim
+Ahmed
 222
-Mech
-Khalid
-333
-Elec
+MECH
